@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-sitemap: https://minimal-blog.lekoarts.de/sitemap.xml
+sitemap: https://kwanok.github.io/sitemap/sitemap-index.xml

@@ -148,5 +148,16 @@ module.exports = {
                 openAnalyzer: false,
             },
         },
+        {
+            resolve: 'gatsby-plugin-robots-txt',
+            options: {
+                host: 'https://kwanok.github.io',
+                sitemap: 'https://kwanok.github.io/sitemap/sitemap-index.xml',
+                policy: [{
+                    userAgent: '*',
+                    allow: '/'
+                }]
+            }
+        },
     ].filter(Boolean),
 }
