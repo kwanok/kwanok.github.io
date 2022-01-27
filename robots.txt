@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-sitemap: https://minimal-blog.lekoarts.de/sitemap.xml
+Sitemap: https://kwanok.github.io/sitemap/sitemap-index.xml
+Host: https://kwanok.github.io
