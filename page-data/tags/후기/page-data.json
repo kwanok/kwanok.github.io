@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
     "path": "/tags/후기",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/사이즈-오브-체어-언박싱-및-후기","title":"사이즈 오브 체어 언박싱 및 후기","date":"19.01.2022","excerpt":"허리를 위한 투자 요즘 집에 오면 대부분 시간을 개발이나 공부에 쏟는데 집에 있는 의자가 너무 불편해서요 😢 유튜브에서 영상을 찾아보다가 사이즈 오브 체어라는 브랜드를 찾았어요. 가격이 4…","timeToRead":1,"description":"사이즈 오브 체어 의자 언박싱","tags":[{"name":"후기","slug":"후기"},{"name":"의자","slug":"의자"},{"name":"일상","slug":"일상"}]}]}},"pageContext":{"slug":"후기","name":"후기","formatString":"DD.MM.YYYY"}},
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/size-of-chair-unboxing","title":"사이즈 오브 체어 언박싱 및 후기","date":"19.01.2022","excerpt":"허리를 위한 투자 요즘 집에 오면 대부분 시간을 개발이나 공부에 쏟는데 집에 있는 의자가 너무 불편해서요 😢 유튜브에서 영상을 찾아보다가 사이즈 오브 체어라는 브랜드를 찾았어요. 가격이 4…","timeToRead":1,"description":"사이즈 오브 체어 의자 언박싱","tags":[{"name":"후기","slug":"후기"},{"name":"의자","slug":"의자"},{"name":"일상","slug":"일상"}]}]}},"pageContext":{"slug":"후기","name":"후기","formatString":"DD.MM.YYYY"}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
