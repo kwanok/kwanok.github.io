@@ -8,10 +8,10 @@ module.exports = {
         // You can also add new values here to query them like usual
         // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
         siteTitle: `KNOH LOG`,
-        siteTitleAlt: `놀로그`,
+        siteTitleAlt: `Kwanok Blog`,
         siteHeadline: `Kwanok Blog - Gatsby Theme from @lekoarts`,
         siteUrl: `https://kwanok.github.io`,
-        siteDescription: `노관옥의 블로그`,
+        siteDescription: `노관옥의 일상 블로그`,
         siteLanguage: `ko`,
         siteImage: `/banner.png`,
         author: `@kwanok`,
