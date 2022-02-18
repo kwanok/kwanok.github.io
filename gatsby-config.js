@@ -10,7 +10,7 @@ module.exports = {
         siteTitle: `KNOH LOG`,
         siteTitleAlt: `Kwanok Blog`,
         siteHeadline: `Kwanok Blog - Gatsby Theme from @lekoarts`,
-        siteUrl: `https://kwanok.github.io`,
+        siteUrl: `https://kwanok.me`,
         siteDescription: `노관옥의 일상 블로그`,
         siteLanguage: `ko`,
         siteImage: `/banner.png`,
