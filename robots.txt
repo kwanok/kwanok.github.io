@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://kwanok.github.io/sitemap/sitemap-index.xml
-Host: https://kwanok.github.io
+Sitemap: https://kwanok.me/sitemap.xml
+Host: https://kwanok.me
