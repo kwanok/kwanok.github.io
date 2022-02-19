@@ -9,7 +9,7 @@ module.exports = {
         // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
         siteTitle: `KNOH LOG`,
         siteTitleAlt: `Kwanok Blog`,
-        siteHeadline: `Kwanok Blog - Gatsby Theme from @lekoarts`,
+        siteHeadline: `Kwanok Blog - Golang Developer`,
         siteUrl: `https://kwanok.me`,
         siteDescription: `노관옥의 일상 블로그`,
         siteLanguage: `ko`,
@@ -67,7 +67,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
+                name: `kwanok's blog`,
                 short_name: `minimal-blog`,
                 description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
                 start_url: `/`,
