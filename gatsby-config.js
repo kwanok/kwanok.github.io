@@ -9,7 +9,7 @@ module.exports = {
         // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
         siteTitle: `KNOH LOG`,
         siteTitleAlt: `Kwanok Blog`,
-        siteHeadline: `Kwanok Blog - Golang Developer`,
+        siteHeadline: `Kwanok Blog - Software Engineer`,
         siteUrl: `https://kwanok.me`,
         siteDescription: `노관옥의 일상 블로그`,
         siteLanguage: `ko`,
@@ -151,8 +151,8 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-robots-txt',
             options: {
-                host: 'https://kwanok.github.io',
-                sitemap: 'https://kwanok.github.io/sitemap/sitemap-index.xml',
+                host: 'https://kwanok.me',
+                sitemap: 'https://kwanok.me/sitemap.xml',
                 policy: [{
                     userAgent: '*',
                     allow: '/'
