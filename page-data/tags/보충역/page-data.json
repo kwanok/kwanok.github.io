@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/보충역",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/nonsan-tc-220131","title":"산업기능요원 보충역 논산훈련소 준비물","date":"31.03.2022","excerpt":"3주간의 훈련소 생활 3개월같은…","timeToRead":2,"description":"논산훈련소 후기","tags":[{"name":"후기","slug":"후기"},{"name":"산업기능요원","slug":"산업기능요원"},{"name":"보충역","slug":"보충역"}]}]}},"pageContext":{"slug":"보충역","name":"보충역","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
